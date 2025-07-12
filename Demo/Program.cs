@@ -47,8 +47,8 @@ namespace Demo
 
         //}
 
-       static int SumNumbers(int Number01, int Number02)
-        { 
+        static int SumNumbers(int Number01, int Number02)
+        {
             return Number01 + Number02;
         }
 
@@ -490,18 +490,19 @@ namespace Demo
 
             int[] Number = { 1, 3, 4, 5, 6, 7, };
 
-            Console.WriteLine(SumArray(1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 12)); 
+            Console.WriteLine(SumArray(1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 12));
             #endregion
 
 
 
         }
-    }   }
+    }
+}
 
 
 
 
-            
 
-            
+
+
 
